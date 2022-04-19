@@ -10,4 +10,4 @@ Custom shaded relief map made with Blender 3D and ArcGIS Pro
 
 ![Overview of Cumberland Lake](CumberlandLakeView.jpg) Scenic view of Cumberland lake
 
-![kayak stop](CumberlandRiverkayak.jpg) Kayaking rest stop on Cumberland Lake
+![kayak stop](CumberlandRiverKayak.jpg) Kayaking rest stop on Cumberland Lake
